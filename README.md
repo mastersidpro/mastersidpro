@@ -10,4 +10,3 @@
 ### You can follow me on:
 
 * [LinkedIn](https://www.linkedin.com/in/sid-bernadas-8b7667269/)
-* [GitHub](https://github.com/mastersidpro)
